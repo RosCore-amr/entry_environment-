@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=AMR Auto Start
+Icon=/usr/share/pixmaps/amr.png
+Exec=terminator -e "bash -c 'source $HOME/ws/src/runsh.sh 20 0;$SHELL'"

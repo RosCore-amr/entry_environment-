@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6708d2a38a6c6cf59bd8587b"
+  },
+  "elevator_name": "elevator_2",
+  "location_type": "elavator",
+  "robot_position": {
+    "acs_id": 2,
+    "pickup_locations": {
+      "floor": 1,
+      "possition_out": "LM701",
+      "position_in": "LM703"
+    },
+    "return_locations": {
+      "floor": 2,
+      "possition_out": "LM702",
+      "position_in": "LM704"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "6708d2ac8a6c6cf59bd8587c"
+  },
+  "elevator_name": "elevator_1",
+  "location_type": "elavator",
+  "robot_position": {
+    "acs_id": 1,
+    "pickup_locations": {
+      "floor": 1,
+      "possition_out": "LM75",
+      "position_in": "LM77"
+    },
+    "return_locations": {
+      "floor": 2,
+      "possition_out": "LM76",
+      "position_in": "LM78"
+    }
+  }
+}]

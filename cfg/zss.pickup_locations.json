@@ -1,0 +1,1024 @@
+[{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1cb"
+  },
+  "name": "zone1",
+  "line": [],
+  "point": "LM1",
+  "kitting": true,
+  "location_status": 5,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "line": [],
+    "point": "LM1",
+    "model": "ok dmmm",
+    "location_status": 4,
+    "location_priority": 1
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T10:03:41.767Z"
+  },
+  "status_list": {
+    "location_status": 5,
+    "model": null,
+    "line": [],
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1cc"
+  },
+  "name": "zone2",
+  "line": [],
+  "point": "LM2",
+  "kitting": true,
+  "location_status": 5,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "name": "zone2"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T10:03:53.888Z"
+  },
+  "status_list": {
+    "location_status": 5,
+    "model": null,
+    "line": [],
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1cd"
+  },
+  "name": "zone3",
+  "line": [
+    17,
+    47,
+    32,
+    18
+  ],
+  "point": "LM3",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_3",
+  "status_before_change": {
+    "name": "zone3"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ce"
+  },
+  "name": "zone4",
+  "line": [
+    21,
+    32,
+    25,
+    39
+  ],
+  "point": "LM4",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_4",
+  "status_before_change": {
+    "name": "zone4"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1cf"
+  },
+  "name": "zone5",
+  "line": [
+    43,
+    20,
+    41,
+    43
+  ],
+  "point": "LM5",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_5",
+  "status_before_change": {
+    "name": "zone5"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:11:37.837Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d0"
+  },
+  "name": "zone6",
+  "line": [
+    44,
+    16,
+    5,
+    49
+  ],
+  "point": "LM6",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_6",
+  "status_before_change": {
+    "name": "zone6"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d1"
+  },
+  "name": "zone7",
+  "line": [
+    5,
+    16,
+    36,
+    41
+  ],
+  "point": "LM7",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_7",
+  "status_before_change": {
+    "name": "zone7"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.262Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d2"
+  },
+  "name": "zone8",
+  "line": [
+    30,
+    1,
+    37,
+    32
+  ],
+  "point": "LM8",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_8",
+  "status_before_change": {
+    "name": "zone8"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.262Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d3"
+  },
+  "name": "zone9",
+  "line": [],
+  "point": "LM9",
+  "kitting": true,
+  "location_status": 5,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "name": "zone9"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T14:07:51.377Z"
+  },
+  "status_list": {
+    "location_status": 5,
+    "model": null,
+    "line": [],
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d4"
+  },
+  "name": "zone10",
+  "line": [
+    25,
+    45,
+    17,
+    24
+  ],
+  "point": "LM10",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_10",
+  "status_before_change": {
+    "name": "zone10"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d5"
+  },
+  "name": "zone11",
+  "line": [
+    41,
+    10,
+    37,
+    1
+  ],
+  "point": "LM11",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_11",
+  "status_before_change": {
+    "name": "zone11"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d6"
+  },
+  "name": "zone12",
+  "line": [
+    13,
+    34,
+    18,
+    4
+  ],
+  "point": "LM12",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_12",
+  "status_before_change": {
+    "name": "zone12"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d7"
+  },
+  "name": "zone13",
+  "line": [
+    10,
+    48,
+    17,
+    6
+  ],
+  "point": "LM13",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_13",
+  "status_before_change": {
+    "name": "zone13"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d8"
+  },
+  "name": "zone14",
+  "line": [
+    44,
+    10,
+    47,
+    48
+  ],
+  "point": "LM14",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_14",
+  "status_before_change": {
+    "name": "zone14"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1d9"
+  },
+  "name": "zone15",
+  "line": [
+    4,
+    27,
+    10,
+    49
+  ],
+  "point": "LM15",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_15",
+  "status_before_change": {
+    "name": "zone15"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1da"
+  },
+  "name": "zone16",
+  "line": [
+    31,
+    25,
+    13,
+    2
+  ],
+  "point": "LM16",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_16",
+  "status_before_change": {
+    "name": "zone16"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1db"
+  },
+  "name": "zone17",
+  "line": [
+    36,
+    17,
+    43,
+    4
+  ],
+  "point": "LM17",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_17",
+  "status_before_change": {
+    "name": "zone17"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1dc"
+  },
+  "name": "zone18",
+  "line": [
+    24,
+    22,
+    43,
+    3
+  ],
+  "point": "LM18",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_18",
+  "status_before_change": {
+    "name": "zone18"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1dd"
+  },
+  "name": "zone19",
+  "line": [
+    24,
+    38,
+    39,
+    35
+  ],
+  "point": "LM19",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_19",
+  "status_before_change": {
+    "name": "zone19"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1de"
+  },
+  "name": "zone20",
+  "line": [
+    36,
+    17,
+    9,
+    33
+  ],
+  "point": "LM20",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_20",
+  "status_before_change": {
+    "name": "zone20"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1df"
+  },
+  "name": "zone21",
+  "line": [
+    41,
+    46,
+    46,
+    42
+  ],
+  "point": "LM21",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_21",
+  "status_before_change": {
+    "name": "zone21"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.264Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e0"
+  },
+  "name": "zone22",
+  "line": [],
+  "point": "LM22",
+  "kitting": true,
+  "location_status": 5,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "name": "zone22"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T10:03:15.058Z"
+  },
+  "status_list": {
+    "location_status": 5,
+    "model": null,
+    "line": [],
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e1"
+  },
+  "name": "zone23",
+  "line": [
+    42,
+    42,
+    37,
+    23
+  ],
+  "point": "LM23",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_23",
+  "status_before_change": {
+    "name": "zone23"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e2"
+  },
+  "name": "zone24",
+  "line": [
+    35,
+    37,
+    10,
+    49
+  ],
+  "point": "LM24",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_24",
+  "status_before_change": {
+    "name": "zone24"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e3"
+  },
+  "name": "zone25",
+  "line": [
+    36,
+    13,
+    27,
+    27
+  ],
+  "point": "LM25",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_25",
+  "status_before_change": {
+    "name": "zone25"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e4"
+  },
+  "name": "zone26",
+  "line": [
+    5,
+    28,
+    35,
+    12
+  ],
+  "point": "LM26",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_26",
+  "status_before_change": {
+    "name": "zone26"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e5"
+  },
+  "name": "zone27",
+  "line": [
+    15,
+    45,
+    20,
+    12
+  ],
+  "point": "LM27",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_27",
+  "status_before_change": {
+    "name": "zone27"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:11:27.362Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e6"
+  },
+  "name": "zone28",
+  "line": [
+    38,
+    5,
+    40,
+    1
+  ],
+  "point": "LM28",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_28",
+  "status_before_change": {
+    "name": "zone28"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e7"
+  },
+  "name": "zone29",
+  "line": [
+    42,
+    7,
+    19,
+    4
+  ],
+  "point": "LM29",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_29",
+  "status_before_change": {
+    "name": "zone29"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:27:05.519Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e8"
+  },
+  "name": "zone30",
+  "line": [
+    37,
+    4,
+    1,
+    6
+  ],
+  "point": "LM30",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_30",
+  "status_before_change": {
+    "name": "zone30"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1e9"
+  },
+  "name": "zone31",
+  "line": [
+    16,
+    21,
+    33,
+    9
+  ],
+  "point": "LM31",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_31",
+  "status_before_change": {
+    "name": "zone31"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ea"
+  },
+  "name": "zone32",
+  "line": [
+    47,
+    49,
+    44,
+    39
+  ],
+  "point": "LM32",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_32",
+  "status_before_change": {
+    "name": "zone32"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1eb"
+  },
+  "name": "zone33",
+  "line": [
+    45,
+    41,
+    1,
+    17
+  ],
+  "point": "LM33",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_33",
+  "status_before_change": {
+    "name": "zone33"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ec"
+  },
+  "name": "zone34",
+  "line": [
+    30,
+    40,
+    13,
+    45
+  ],
+  "point": "LM34",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_34",
+  "status_before_change": {
+    "name": "zone34"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ed"
+  },
+  "name": "zone35",
+  "line": [
+    36,
+    47,
+    31,
+    26
+  ],
+  "point": "LM35",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_35",
+  "status_before_change": {
+    "name": "zone35"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ee"
+  },
+  "name": "zone36",
+  "line": [
+    21,
+    47,
+    25,
+    37
+  ],
+  "point": "LM36",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_36",
+  "status_before_change": {
+    "name": "zone36"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1ef"
+  },
+  "name": "zone37",
+  "line": [
+    15,
+    34,
+    15,
+    25
+  ],
+  "point": "LM37",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_37",
+  "status_before_change": {
+    "name": "zone37"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1f0"
+  },
+  "name": "zone38",
+  "line": [
+    2,
+    19,
+    26,
+    9
+  ],
+  "point": "LM38",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_38",
+  "status_before_change": {
+    "name": "zone38"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:12:49.038Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1f1"
+  },
+  "name": "zone39",
+  "line": [
+    1,
+    48,
+    47,
+    31
+  ],
+  "point": "LM39",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_39",
+  "status_before_change": {
+    "name": "zone39"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbc076601e3cdb9b9e1f2"
+  },
+  "name": "zone40",
+  "line": [
+    30,
+    8,
+    30,
+    37
+  ],
+  "point": "LM40",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "pickup_locations",
+  "location_priority": 1,
+  "model": "pickup_locations_model_40",
+  "status_before_change": {
+    "name": "zone40"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:08:23.266Z"
+  }
+}]

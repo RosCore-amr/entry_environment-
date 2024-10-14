@@ -1,0 +1,978 @@
+[{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4a"
+  },
+  "name": "zone1",
+  "line": 1,
+  "point": "LM1",
+  "kitting": true,
+  "location_status": 6,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "name": "zone1"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T10:04:43.815Z"
+  },
+  "status_list": {
+    "location_status": 6,
+    "model": null,
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4b"
+  },
+  "name": "zone2",
+  "line": 2,
+  "point": "LM2",
+  "kitting": true,
+  "location_status": 6,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": null,
+  "status_before_change": {
+    "name": "zone2"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-02T10:04:28.928Z"
+  },
+  "status_list": {
+    "location_status": 6,
+    "model": null,
+    "username": "totalitarian_regime"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4c"
+  },
+  "name": "zone3",
+  "line": 3,
+  "point": "LM3",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_3",
+  "status_before_change": {
+    "name": "zone3"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4d"
+  },
+  "name": "zone4",
+  "line": 4,
+  "point": "LM4",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_4",
+  "status_before_change": {
+    "name": "zone4"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4e"
+  },
+  "name": "zone5",
+  "line": 5,
+  "point": "LM5",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_5",
+  "status_before_change": {
+    "name": "zone5"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc4f"
+  },
+  "name": "zone6",
+  "line": 6,
+  "point": "LM6",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_6",
+  "status_before_change": {
+    "name": "zone6"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc50"
+  },
+  "name": "zone7",
+  "line": 7,
+  "point": "LM7",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_7",
+  "status_before_change": {
+    "name": "zone7"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc51"
+  },
+  "name": "zone8",
+  "line": 8,
+  "point": "LM8",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_8",
+  "status_before_change": {
+    "name": "zone8"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc52"
+  },
+  "name": "zone9",
+  "line": 9,
+  "point": "LM9",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_9",
+  "status_before_change": {
+    "name": "zone9"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc53"
+  },
+  "name": "zone10",
+  "line": 10,
+  "point": "LM10",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_10",
+  "status_before_change": {
+    "name": "zone10"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc54"
+  },
+  "name": "zone11",
+  "line": 11,
+  "point": "LM11",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_11",
+  "status_before_change": {
+    "name": "zone11"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc55"
+  },
+  "name": "zone12",
+  "line": 12,
+  "point": "LM12",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_12",
+  "status_before_change": {
+    "name": "zone12"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc56"
+  },
+  "name": "zone13",
+  "line": 13,
+  "point": "LM13",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_13",
+  "status_before_change": {
+    "name": "zone13"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc57"
+  },
+  "name": "zone14",
+  "line": 14,
+  "point": "LM14",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_14",
+  "status_before_change": {
+    "name": "zone14"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc58"
+  },
+  "name": "zone15",
+  "line": 15,
+  "point": "LM15",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_15",
+  "status_before_change": {
+    "name": "zone15"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc59"
+  },
+  "name": "zone16",
+  "line": 16,
+  "point": "LM16",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_16",
+  "status_before_change": {
+    "name": "zone16"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5a"
+  },
+  "name": "zone17",
+  "line": 17,
+  "point": "LM17",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_17",
+  "status_before_change": {
+    "name": "zone17"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5b"
+  },
+  "name": "zone18",
+  "line": 18,
+  "point": "LM18",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_18",
+  "status_before_change": {
+    "name": "zone18"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5c"
+  },
+  "name": "zone19",
+  "line": 19,
+  "point": "LM19",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_19",
+  "status_before_change": {
+    "name": "zone19"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:27:05.519Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5d"
+  },
+  "name": "zone20",
+  "line": 20,
+  "point": "LM20",
+  "kitting": true,
+  "location_status": 8,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_20",
+  "status_before_change": {
+    "name": "zone20"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:11:37.838Z"
+  },
+  "status_list": {
+    "location_status": 8,
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5e"
+  },
+  "name": "zone21",
+  "line": 21,
+  "point": "LM21",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_21",
+  "status_before_change": {
+    "name": "zone21"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc5f"
+  },
+  "name": "zone22",
+  "line": 22,
+  "point": "LM22",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_22",
+  "status_before_change": {
+    "name": "zone22"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc60"
+  },
+  "name": "zone23",
+  "line": 23,
+  "point": "LM23",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_23",
+  "status_before_change": {
+    "name": "zone23"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc61"
+  },
+  "name": "zone24",
+  "line": 24,
+  "point": "LM24",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_24",
+  "status_before_change": {
+    "name": "zone24"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc62"
+  },
+  "name": "zone25",
+  "line": 25,
+  "point": "LM25",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_25",
+  "status_before_change": {
+    "name": "zone25"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc63"
+  },
+  "name": "zone26",
+  "line": 26,
+  "point": "LM26",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_26",
+  "status_before_change": {
+    "name": "zone26"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc64"
+  },
+  "name": "zone27",
+  "line": 27,
+  "point": "LM27",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_27",
+  "status_before_change": {
+    "name": "zone27"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc65"
+  },
+  "name": "zone28",
+  "line": 28,
+  "point": "LM28",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_28",
+  "status_before_change": {
+    "name": "zone28"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc66"
+  },
+  "name": "zone29",
+  "line": 29,
+  "point": "LM29",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_29",
+  "status_before_change": {
+    "name": "zone29"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc67"
+  },
+  "name": "zone30",
+  "line": 30,
+  "point": "LM30",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_30",
+  "status_before_change": {
+    "name": "zone30"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc68"
+  },
+  "name": "zone31",
+  "line": 31,
+  "point": "LM31",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_31",
+  "status_before_change": {
+    "name": "zone31"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc69"
+  },
+  "name": "zone32",
+  "line": 32,
+  "point": "LM32",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_32",
+  "status_before_change": {
+    "name": "zone32"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6a"
+  },
+  "name": "zone33",
+  "line": 33,
+  "point": "LM33",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_33",
+  "status_before_change": {
+    "name": "zone33"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6b"
+  },
+  "name": "zone34",
+  "line": 34,
+  "point": "LM34",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_34",
+  "status_before_change": {
+    "name": "zone34"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6c"
+  },
+  "name": "zone35",
+  "line": 35,
+  "point": "LM35",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_35",
+  "status_before_change": {
+    "name": "zone35"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6d"
+  },
+  "name": "zone36",
+  "line": 36,
+  "point": "LM36",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_36",
+  "status_before_change": {
+    "name": "zone36"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6e"
+  },
+  "name": "zone37",
+  "line": 37,
+  "point": "LM37",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_37",
+  "status_before_change": {
+    "name": "zone37"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc6f"
+  },
+  "name": "zone38",
+  "line": 38,
+  "point": "LM38",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_38",
+  "status_before_change": {
+    "name": "zone38"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc70"
+  },
+  "name": "zone39",
+  "line": 39,
+  "point": "LM39",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_39",
+  "status_before_change": {
+    "name": "zone39"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc71"
+  },
+  "name": "zone40",
+  "line": 40,
+  "point": "LM40",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_40",
+  "status_before_change": {
+    "name": "zone40"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc72"
+  },
+  "name": "zone41",
+  "line": 41,
+  "point": "LM41",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_41",
+  "status_before_change": {
+    "name": "zone41"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc73"
+  },
+  "name": "zone42",
+  "line": 42,
+  "point": "LM42",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_42",
+  "status_before_change": {
+    "name": "zone42"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc74"
+  },
+  "name": "zone43",
+  "line": 43,
+  "point": "LM43",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_43",
+  "status_before_change": {
+    "name": "zone43"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc75"
+  },
+  "name": "zone44",
+  "line": 44,
+  "point": "LM44",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_44",
+  "status_before_change": {
+    "name": "zone44"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc76"
+  },
+  "name": "zone45",
+  "line": 45,
+  "point": "LM45",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_45",
+  "status_before_change": {
+    "name": "zone45"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc77"
+  },
+  "name": "zone46",
+  "line": 46,
+  "point": "LM46",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_46",
+  "status_before_change": {
+    "name": "zone46"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc78"
+  },
+  "name": "zone47",
+  "line": 47,
+  "point": "LM47",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_47",
+  "status_before_change": {
+    "name": "zone47"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fbbb87f27f3384070afc79"
+  },
+  "name": "zone48",
+  "line": 48,
+  "point": "LM48",
+  "kitting": true,
+  "location_status": 3,
+  "map_code": "return_locations",
+  "location_priority": 1,
+  "model": "return_locations_model_48",
+  "status_before_change": {
+    "name": "zone48"
+  },
+  "restore": true,
+  "lastAT": {
+    "$date": "2024-10-01T16:06:15.129Z"
+  }
+}]

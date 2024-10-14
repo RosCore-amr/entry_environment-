@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66fa27142d2aa4bdf74083d0"
+  },
+  "robot_code": "robot_2",
+  "robot_type": "minhtest",
+  "ip_machine": "192.168.16.2",
+  "robot_connect": false,
+  "map_code": "pickup_locations",
+  "robot_status": "RUN",
+  "battery": 0,
+  "lastAT": {
+    "$date": "2024-09-30T14:41:35.337Z"
+  },
+  "status_list": {
+    "ip_machine": "192.168.16.2",
+    "robot_connect": false,
+    "map_code": "minhdeptrai",
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fa28ec666c47230b908489"
+  },
+  "robot_code": "robot_1",
+  "robot_type": "minhtest",
+  "ip_machine": "192.168.6.2",
+  "robot_connect": false,
+  "map_code": "pickup_locations",
+  "robot_status": "IDE",
+  "battery": 0,
+  "lastAT": {
+    "$date": "2024-09-30T17:27:09.686Z"
+  },
+  "status_list": {
+    "ip_machine": "192.168.6.2",
+    "robot_connect": false,
+    "map_code": "minhdeptrai",
+    "username": "admin"
+  }
+},
+{
+  "_id": {
+    "$oid": "66fa28f5666c47230b90848a"
+  },
+  "robot_code": "robot_0",
+  "robot_type": "amr",
+  "ip_machine": "127.0.0.1",
+  "robot_connect": false,
+  "map_code": "return_locations",
+  "robot_status": "",
+  "battery": 0,
+  "lastAT": {
+    "$date": "2024-09-30T11:41:12.089Z"
+  },
+  "status_list": {
+    "ip_machine": "192.168.6.4",
+    "robot_connect": false,
+    "map_code": "minhdeptrai",
+    "username": "admin"
+  }
+}]
